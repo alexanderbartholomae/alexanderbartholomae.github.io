@@ -6,8 +6,22 @@
     <description>Recent content in Posts on Alexander&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 19 Jun 2016 12:31:33 -0400</lastBuildDate>
+    <lastBuildDate>Sun, 19 Jun 2016 13:09:14 -0400</lastBuildDate>
     <atom:link href="http://alexanderbartholomae.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Chart Remake</title>
+      <link>http://alexanderbartholomae.github.io/post/chart-remake/</link>
+      <pubDate>Sun, 19 Jun 2016 13:09:14 -0400</pubDate>
+      
+      <guid>http://alexanderbartholomae.github.io/post/chart-remake/</guid>
+      <description>&lt;p&gt;Since May I&amp;rsquo;ve been reading and following along with Joel Grus&amp;rsquo; &lt;em&gt;Data Science From Scratch&lt;/em&gt; . One of the first things we learn in this book is how to make charts in Python with matplotlib.&lt;/p&gt;
+
+&lt;p&gt;I&amp;rsquo;ve also been reading the &lt;em&gt;Wall Street Journal&lt;/em&gt; daily and &lt;em&gt;The Economist&lt;/em&gt; weekly. As you may know, both of these publications are chock full of charts and graphs.&lt;/p&gt;
+
+&lt;p&gt;Wouldn&amp;rsquo;t it be fun to re-make some of the graphs from these publications from scratch? Of course it would, if you like banging your head against API servers and sfiddling with graph designs. If you&amp;rsquo;re into this kind of thing, you should check out the &lt;em&gt;Reproduce It&lt;/em&gt; series of articles on &lt;a href=&#34;http://danielfrg.com&#34; title=&#34;Daniel Rodriguez&#39;s Blog&#34;&gt;http://danielfrg.com &lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>first post</title>
