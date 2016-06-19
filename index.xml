@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Alexander&#39;s Blog</title>
+    <link>http://alexanderbartholomae.github.io/</link>
+    <description>Recent content on Alexander&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 19 Jun 2016 12:31:33 -0400</lastBuildDate>
+    <atom:link href="http://alexanderbartholomae.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>first post</title>
+      <link>http://alexanderbartholomae.github.io/post/first-post/</link>
+      <pubDate>Sun, 19 Jun 2016 12:31:33 -0400</pubDate>
+      
+      <guid>http://alexanderbartholomae.github.io/post/first-post/</guid>
+      <description>&lt;p&gt;This is my &lt;em&gt;first post&lt;/em&gt; on Hugo. Yay!&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
